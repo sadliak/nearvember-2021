@@ -1,0 +1,11 @@
+{
+  "name": "nearvember-2021",
+  "version": "1.0.0",
+  "repository": "git@github.com-sadliak:sadliak/nearvember-2021.git",
+  "scripts": {
+    "deploy:web": "gh-pages -d dist/"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
