@@ -1,0 +1,10 @@
+{
+  "name": "contract",
+  "private": true,
+  "scripts": {
+    "build": "asb"
+  },
+  "dependencies": {
+    "near-sdk-as": "3.1.0"
+  }
+}
