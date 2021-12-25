@@ -1,0 +1,7 @@
+{
+  "extends": "near-sdk-as/asconfig.json",
+  "workspaces": [
+    "election",
+    "get_initial_vote_count"
+  ]
+}

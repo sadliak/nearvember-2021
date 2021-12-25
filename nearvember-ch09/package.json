@@ -1,5 +1,5 @@
 {
-  "name": "nearvember-ch07",
+  "name": "nearvember-ch09",
   "version": "0.1.0",
   "scripts": {
     "build:contract": "cd contract && yarn && yarn build"
