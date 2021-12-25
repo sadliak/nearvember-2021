@@ -1,0 +1,15 @@
+**/node_modules
+**/out
+
+**/neardev
+
+**/coverage
+
+**/build
+
+# misc
+**/.DS_Store
+**/.env*
+
+**/target
+**/*.wasm
