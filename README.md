@@ -1,5 +1,7 @@
 # NEARvember 2021
 
+https://nearvember.near.org/
+
 ## Prerequisites
 
 * [node.js](https://www.nodejs.org) - 14.x.x+
