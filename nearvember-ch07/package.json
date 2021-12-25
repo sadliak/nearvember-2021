@@ -1,0 +1,19 @@
+{
+  "name": "nearvember-ch07",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "npm run build:contract && npm run build:web",
+    "build:contract": "cd contract && yarn && yarn build"
+  },
+  "devDependencies": {
+    "near-cli": "^2.0.0",
+    "near-sdk-as": "3.2.3",
+    "nodemon": "^2.0.7",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "env-cmd": "^10.1.0",
+    "near-api-js": "^0.41.0",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
